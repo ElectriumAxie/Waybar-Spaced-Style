@@ -7,6 +7,7 @@ workspaces / active window
 
 <img width="398" height="78" alt="image" src="https://github.com/user-attachments/assets/53f03733-a347-4d42-baaa-f53e5b8515f1" />
 
+
 right:
 CPU usage / RAM usage / speakers volume / mic volume / time 24h format / current date
 
