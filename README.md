@@ -1,6 +1,6 @@
 # About
 My waybar dotfiles.
-Minimalistic, not bloated, no trash modules.
+Minimalistic, not bloated, no trash modules. Uses PulseAudio.
 
 left:
 workspaces / active window
