@@ -1,4 +1,4 @@
-# waybar-spaced-style
+# About
 My waybar dotfiles.
 Minimalistic, not bloated, no trash modules
 
