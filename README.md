@@ -1,5 +1,5 @@
 # About
-My waybar dotfiles.
+My Waybar dotfiles.
 Minimalistic, not bloated, no trash modules. Uses PulseAudio.
 
 left:
